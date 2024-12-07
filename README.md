@@ -1,5 +1,10 @@
 # Santander Coders - Machine Learning II
 
+## Integrantes
+
+- Matheus Fonseca Chaves
+- Filipe Sousa
+
 ## Introdução
 
 Este projeto foi desenvolvido como o projeto de conclusão de módulo de Machine Learning II, sendo parte da última etapa do Santander Coders. O objetivo desta etapa é aplicar conhecimentos de análise de dados e machine learning para criação de modelos supervisionados e não supervisionados.
